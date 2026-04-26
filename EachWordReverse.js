@@ -5,3 +5,11 @@ let result = sentence
   .join(' ');
 
 console.log(result);
+//
+console.log("test 6");
+console.log("test 7");
+console.log("test 8");
+console.log("test 9");
+console.log("test 10");
+console.log("test 11");
+console.log("test 12");
